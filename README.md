@@ -51,8 +51,4 @@
 * **Machine Learning**: Scikit-Learn (Logistic Regression, RandomForest, MLPClassifier, StandardScaler)
 * **Visualizations**: Matplotlib, Seaborn
 
-## Структура репозитория
-├── requirements.txt # Список зависимостей
-├── README.md # Документация проекта
-└── analysis.ipynb # Воспроизводимый Jupyter Notebook с кодом и выводами
 
